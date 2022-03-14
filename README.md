@@ -30,3 +30,7 @@ The game ends either when the player enters 5 to exit the game, or when his/her 
 ### ● Version History
 
 0.1 - Initial Release
+
+### ● Game Screen Shot
+
+![image](https://github.com/Shen-KuanLing/Text-based-game/blob/main/%E9%81%8A%E6%88%B2%E6%88%AA%E5%9C%96.PNG)
